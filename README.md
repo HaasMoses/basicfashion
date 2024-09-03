@@ -1,0 +1,1 @@
+This is a basic fashion blog I created as a soft project for codecademy. I have been completing the Full-Stack Engineer career path that is 150 hours long in order to receive the professional Full-Stack certificate.
